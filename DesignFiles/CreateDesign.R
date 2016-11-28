@@ -1,5 +1,6 @@
 library(dplyr)
 library(zoo)
+library(readODS)
 
 set.seed(1234567890)
 NumRuns <- 4
@@ -25,39 +26,52 @@ OrderedBlocks <- data.frame(
 )
 OrderedBlocks <- split(OrderedBlocks, OrderedBlocks$Run)
 
-# for (i in 1:nrow(OrderedBlocks) {
-#   
-# 
-# DefaultPair <- data.frame(
-#   Run=rep(NA, 
-# 
-# Images <- read_ods("./Images.ods")
-# AvailNV <- which(Images$Type == "NV")
-# AvailPL <- which(Images$Type == "PL")
-# 
-#   
-# 
-# Design <- replicate(NumRuns, data.frame(), simplify=F)
-# 
-# for (i in 1:nrow(Blocks)) {
-#   if (Blocks$Condition[i] == "NV" ) {
-#     TmpIndex <- sample.int(length(AvailNV), Blocks$NumTrials[i])
-#     ImgIndex <- AvailNV[TmpIndex]
-#     AvailNV <- AvailNV[-1*TmpIndex]
-#   } else {
-#     TmpIndex <- sample.int(length(AvailPL), Blocks$NumTrials[i])
-#     ImgIndex <- AvailPL[TmpIndex]
-#   }
-#     
-#   Design[[Blocks$Run[i]]] <- rbind(Design[[Blocks$Run[i]]],
-#     data.frame(
-#       Run=Blocks$Run[i],
-#       Condition=Blocks$Condition[i],
-#       BlockNum=Blocks$BlockNum[i],
-#       FileName=Images$FileName[ImgIndex]
-#     )
-#   )
-# }
-# 
-# Design <- bind_rows(Design)
-# write.csv(Design, file="../Design.csv", row.names=F, quote=F)
+for (i in 1:NumRuns) {
+  AvailPL <- filter(Blocks, Condition == "PL", Run == i)$NumTrials
+  AvailNV <- filter(Blocks, Condition == "NV", Run == i)$NumTrials
+
+  AvailPL <- sample(AvailPL, length(AvailPL))
+  AvailNV <- sample(AvailNV, length(AvailNV))
+
+  OrderedBlocks[[i]]$NumTrials[OrderedBlocks[[i]]$Condition == "PL"] <- AvailPL
+  OrderedBlocks[[i]]$NumTrials[OrderedBlocks[[i]]$Condition == "NV"] <- AvailNV
+}
+OrderedBlocks <- bind_rows(OrderedBlocks)
+OrderedBlocks <- OrderedBlocks %>%
+  group_by(Run) %>%
+  mutate(BlockNum=1:n())
+
+Images <- read_ods("./Images.ods")
+AvailNV <- which(Images$Type == "NV")
+AvailPL <- which(Images$Type == "PL")
+Design <- data.frame()
+
+for (i in 1:nrow(OrderedBlocks)) {
+  if (OrderedBlocks$Condition[i] == "NV" ) {
+    TmpIndex <- sample.int(length(AvailNV), OrderedBlocks$NumTrials[i])
+    ImgIndex <- AvailNV[TmpIndex]
+    AvailNV <- AvailNV[-1*TmpIndex]
+  } else {
+    TmpIndex <- sample.int(length(AvailPL), OrderedBlocks$NumTrials[i])
+    ImgIndex <- AvailPL[TmpIndex]
+  }
+    
+  Design <- rbind(Design,
+    data.frame(
+      Run=OrderedBlocks$Run[i],
+      Condition=OrderedBlocks$Condition[i],
+      BlockNum=OrderedBlocks$BlockNum[i],
+      NumTrials=OrderedBlocks$NumTrials[i],
+      FileName=Images$FileName[ImgIndex]
+    )
+  )
+}
+write.csv(Design, file="../Design.csv", row.names=F, quote=F)
+
+# let's make a plot just because
+Design$All <- 1
+p <- ggplot(Design, aes(BlockNum, All, color=Condition)) +
+  geom_count() +
+  facet_grid(Run ~ .)
+  
+
