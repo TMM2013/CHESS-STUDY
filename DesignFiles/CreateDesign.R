@@ -67,6 +67,11 @@ for (i in 1:nrow(OrderedBlocks)) {
     )
   )
 }
+
+Design <- Design %>%
+  group_by(Run) %>%
+  mutate(TrialNum = 1:n())
+
 write.csv(Design, file="../Design.csv", row.names=F, quote=F)
 
 # let's make a plot just because
