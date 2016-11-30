@@ -11,6 +11,7 @@ do
     TrialName=`printf Trial%04d ${i}`
     echo "<Trial>"
     echo "    <name>${TrialName}</name>"
+    echo "    <condition>5</condition>"
     echo "    <show>"
     echo "        <item>${ImgName}</item>"
     echo "    </show>"
