@@ -5,7 +5,7 @@
     <Slide>
         <name>IMG001</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/001.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/001.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -16,7 +16,7 @@
     <Slide>
         <name>IMG002</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/002.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/002.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -27,7 +27,7 @@
     <Slide>
         <name>IMG003</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/003.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/003.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -38,7 +38,7 @@
     <Slide>
         <name>IMG004</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/004.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/004.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -49,7 +49,7 @@
     <Slide>
         <name>IMG005</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/005.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/005.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -60,7 +60,7 @@
     <Slide>
         <name>IMG006</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/006.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/006.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -71,7 +71,7 @@
     <Slide>
         <name>IMG007</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/007.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/007.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -82,7 +82,7 @@
     <Slide>
         <name>IMG008</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/008.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/008.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -93,7 +93,7 @@
     <Slide>
         <name>IMG009</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/009.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/009.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -104,7 +104,7 @@
     <Slide>
         <name>IMG010</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/010.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/010.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -115,7 +115,7 @@
     <Slide>
         <name>IMG011</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/011.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/011.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -126,7 +126,7 @@
     <Slide>
         <name>IMG012</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/012.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/012.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -137,7 +137,7 @@
     <Slide>
         <name>IMG013</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/013.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/013.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -148,7 +148,7 @@
     <Slide>
         <name>IMG014</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/014.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/014.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -159,7 +159,7 @@
     <Slide>
         <name>IMG015</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/015.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/015.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -170,7 +170,7 @@
     <Slide>
         <name>IMG016</name>
         <condition>2</condition>
-        <Picture>.././UpdatedSnodgrass/016.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/016.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -181,7 +181,7 @@
     <Slide>
         <name>IMG017</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/017.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/017.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -192,7 +192,7 @@
     <Slide>
         <name>IMG018</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/018.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/018.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -203,7 +203,7 @@
     <Slide>
         <name>IMG019</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/019.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/019.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -214,7 +214,7 @@
     <Slide>
         <name>IMG020</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/020.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/020.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -225,7 +225,7 @@
     <Slide>
         <name>IMG021</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/021.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/021.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -236,7 +236,7 @@
     <Slide>
         <name>IMG022</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/022.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/022.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -247,7 +247,7 @@
     <Slide>
         <name>IMG023</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/023.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/023.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -258,7 +258,7 @@
     <Slide>
         <name>IMG024</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/024.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/024.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -269,7 +269,7 @@
     <Slide>
         <name>IMG025</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/025.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/025.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -280,7 +280,7 @@
     <Slide>
         <name>IMG026</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/026.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/026.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -291,7 +291,7 @@
     <Slide>
         <name>IMG027</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/027.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/027.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -302,7 +302,7 @@
     <Slide>
         <name>IMG028</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/028.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/028.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -313,7 +313,7 @@
     <Slide>
         <name>IMG029</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/029.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/029.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -324,7 +324,7 @@
     <Slide>
         <name>IMG030</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/030.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/030.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -335,7 +335,7 @@
     <Slide>
         <name>IMG031</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/031.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/031.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -346,7 +346,7 @@
     <Slide>
         <name>IMG032</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/032.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/032.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -357,7 +357,7 @@
     <Slide>
         <name>IMG033</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/033.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/033.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -368,7 +368,7 @@
     <Slide>
         <name>IMG034</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/034.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/034.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -379,7 +379,7 @@
     <Slide>
         <name>IMG035</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/035.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/035.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -390,7 +390,7 @@
     <Slide>
         <name>IMG036</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/036.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/036.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -401,7 +401,7 @@
     <Slide>
         <name>IMG037</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/037.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/037.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -412,7 +412,7 @@
     <Slide>
         <name>IMG038</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/038.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/038.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -423,7 +423,7 @@
     <Slide>
         <name>IMG039</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/039.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/039.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -434,7 +434,7 @@
     <Slide>
         <name>IMG040</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/040.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/040.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -445,7 +445,7 @@
     <Slide>
         <name>IMG041</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/041.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/041.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -456,7 +456,7 @@
     <Slide>
         <name>IMG042</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/042.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/042.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -467,7 +467,7 @@
     <Slide>
         <name>IMG043</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/043.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/043.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -478,7 +478,7 @@
     <Slide>
         <name>IMG044</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/044.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/044.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -489,7 +489,7 @@
     <Slide>
         <name>IMG045</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/045.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/045.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -500,7 +500,7 @@
     <Slide>
         <name>IMG046</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/046.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/046.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -511,7 +511,7 @@
     <Slide>
         <name>IMG047</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/047.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/047.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -522,7 +522,7 @@
     <Slide>
         <name>IMG048</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/048.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/048.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -533,7 +533,7 @@
     <Slide>
         <name>IMG049</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/049.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/049.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -544,7 +544,7 @@
     <Slide>
         <name>IMG050</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/050.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/050.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -555,7 +555,7 @@
     <Slide>
         <name>IMG051</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/051.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/051.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -566,7 +566,7 @@
     <Slide>
         <name>IMG052</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/052.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/052.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -577,7 +577,7 @@
     <Slide>
         <name>IMG053</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/053.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/053.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -588,7 +588,7 @@
     <Slide>
         <name>IMG054</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/054.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/054.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -599,7 +599,7 @@
     <Slide>
         <name>IMG055</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/055.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/055.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -610,7 +610,7 @@
     <Slide>
         <name>IMG056</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/056.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/056.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -621,7 +621,7 @@
     <Slide>
         <name>IMG057</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/057.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/057.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -632,7 +632,7 @@
     <Slide>
         <name>IMG058</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/058.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/058.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -643,7 +643,7 @@
     <Slide>
         <name>IMG059</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/059.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/059.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -654,7 +654,7 @@
     <Slide>
         <name>IMG060</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/060.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/060.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -665,7 +665,7 @@
     <Slide>
         <name>IMG061</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/061.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/061.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -676,7 +676,7 @@
     <Slide>
         <name>IMG062</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/062.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/062.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -687,7 +687,7 @@
     <Slide>
         <name>IMG063</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/063.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/063.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -698,7 +698,7 @@
     <Slide>
         <name>IMG064</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/064.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/064.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -709,7 +709,7 @@
     <Slide>
         <name>IMG065</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/065.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/065.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -720,7 +720,7 @@
     <Slide>
         <name>IMG066</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/066.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/066.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -731,7 +731,7 @@
     <Slide>
         <name>IMG067</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/067.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/067.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -742,7 +742,7 @@
     <Slide>
         <name>IMG068</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/068.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/068.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -753,7 +753,7 @@
     <Slide>
         <name>IMG069</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/069.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/069.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -764,7 +764,7 @@
     <Slide>
         <name>IMG070</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/070.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/070.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -775,7 +775,7 @@
     <Slide>
         <name>IMG071</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/071.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/071.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -786,7 +786,7 @@
     <Slide>
         <name>IMG072</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/072.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/072.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -797,7 +797,7 @@
     <Slide>
         <name>IMG073</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/073.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/073.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -808,7 +808,7 @@
     <Slide>
         <name>IMG074</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/074.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/074.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -819,7 +819,7 @@
     <Slide>
         <name>IMG075</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/075.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/075.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -830,7 +830,7 @@
     <Slide>
         <name>IMG076</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/076.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/076.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -841,7 +841,7 @@
     <Slide>
         <name>IMG077</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/077.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/077.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -852,7 +852,7 @@
     <Slide>
         <name>IMG078</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/078.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/078.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -863,7 +863,7 @@
     <Slide>
         <name>IMG079</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/079.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/079.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -874,7 +874,7 @@
     <Slide>
         <name>IMG080</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/080.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/080.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -885,7 +885,7 @@
     <Slide>
         <name>IMG081</name>
         <condition>2</condition>
-        <Picture>.././UpdatedSnodgrass/081.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/081.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -896,7 +896,7 @@
     <Slide>
         <name>IMG082</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/082.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/082.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -907,7 +907,7 @@
     <Slide>
         <name>IMG083</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/083.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/083.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -918,7 +918,7 @@
     <Slide>
         <name>IMG084</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/084.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/084.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -929,7 +929,7 @@
     <Slide>
         <name>IMG085</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/085.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/085.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -940,7 +940,7 @@
     <Slide>
         <name>IMG086</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/086.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/086.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -951,7 +951,7 @@
     <Slide>
         <name>IMG087</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/087.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/087.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -962,7 +962,7 @@
     <Slide>
         <name>IMG088</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/088.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/088.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -973,7 +973,7 @@
     <Slide>
         <name>IMG089</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/089.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/089.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -984,7 +984,7 @@
     <Slide>
         <name>IMG090</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/090.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/090.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -995,7 +995,7 @@
     <Slide>
         <name>IMG091</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/091.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/091.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1006,7 +1006,7 @@
     <Slide>
         <name>IMG092</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/092.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/092.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1017,7 +1017,7 @@
     <Slide>
         <name>IMG093</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/093.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/093.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1028,7 +1028,7 @@
     <Slide>
         <name>IMG094</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/094.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/094.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1039,7 +1039,7 @@
     <Slide>
         <name>IMG095</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/095.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/095.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1050,7 +1050,7 @@
     <Slide>
         <name>IMG096</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/096.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/096.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1061,7 +1061,7 @@
     <Slide>
         <name>IMG097</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/097.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/097.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1072,7 +1072,7 @@
     <Slide>
         <name>IMG098</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/098.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/098.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1083,7 +1083,7 @@
     <Slide>
         <name>IMG099</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/099.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/099.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1094,7 +1094,7 @@
     <Slide>
         <name>IMG100</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/100.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/100.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1105,7 +1105,7 @@
     <Slide>
         <name>IMG101</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/101.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/101.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1116,7 +1116,7 @@
     <Slide>
         <name>IMG102</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/102.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/102.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1127,7 +1127,7 @@
     <Slide>
         <name>IMG103</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/103.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/103.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1138,7 +1138,7 @@
     <Slide>
         <name>IMG104</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/104.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/104.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1149,7 +1149,7 @@
     <Slide>
         <name>IMG105</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/105.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/105.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1160,7 +1160,7 @@
     <Slide>
         <name>IMG106</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/106.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/106.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1171,7 +1171,7 @@
     <Slide>
         <name>IMG107</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/107.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/107.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1182,7 +1182,7 @@
     <Slide>
         <name>IMG108</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/108.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/108.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1193,7 +1193,7 @@
     <Slide>
         <name>IMG109</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/109.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/109.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1204,7 +1204,7 @@
     <Slide>
         <name>IMG110</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/110.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/110.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1215,7 +1215,7 @@
     <Slide>
         <name>IMG111</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/111.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/111.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1226,7 +1226,7 @@
     <Slide>
         <name>IMG112</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/112.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/112.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1237,7 +1237,7 @@
     <Slide>
         <name>IMG113</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/113.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/113.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1248,7 +1248,7 @@
     <Slide>
         <name>IMG114</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/114.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/114.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1259,7 +1259,7 @@
     <Slide>
         <name>IMG115</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/115.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/115.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1270,7 +1270,7 @@
     <Slide>
         <name>IMG116</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/116.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/116.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1281,7 +1281,7 @@
     <Slide>
         <name>IMG117</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/117.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/117.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1292,7 +1292,7 @@
     <Slide>
         <name>IMG118</name>
         <condition>2</condition>
-        <Picture>.././UpdatedSnodgrass/118.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/118.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1303,7 +1303,7 @@
     <Slide>
         <name>IMG119</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/119.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/119.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1314,7 +1314,7 @@
     <Slide>
         <name>IMG120</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/120.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/120.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1325,7 +1325,7 @@
     <Slide>
         <name>IMG121</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/121.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/121.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1336,7 +1336,7 @@
     <Slide>
         <name>IMG122</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/122.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/122.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1347,7 +1347,7 @@
     <Slide>
         <name>IMG123</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/123.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/123.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1358,7 +1358,7 @@
     <Slide>
         <name>IMG124</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/124.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/124.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1369,7 +1369,7 @@
     <Slide>
         <name>IMG125</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/125.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/125.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1380,7 +1380,7 @@
     <Slide>
         <name>IMG126</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/126.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/126.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1391,7 +1391,7 @@
     <Slide>
         <name>IMG127</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/127.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/127.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1402,7 +1402,7 @@
     <Slide>
         <name>IMG128</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/128.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/128.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1413,7 +1413,7 @@
     <Slide>
         <name>IMG129</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/129.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/129.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1424,7 +1424,7 @@
     <Slide>
         <name>IMG130</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/130.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/130.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1435,7 +1435,7 @@
     <Slide>
         <name>IMG131</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/131.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/131.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1446,7 +1446,7 @@
     <Slide>
         <name>IMG132</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/132.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/132.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1457,7 +1457,7 @@
     <Slide>
         <name>IMG133</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/133.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/133.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1468,7 +1468,7 @@
     <Slide>
         <name>IMG134</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/134.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/134.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1479,7 +1479,7 @@
     <Slide>
         <name>IMG135</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/135.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/135.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1490,7 +1490,7 @@
     <Slide>
         <name>IMG136</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/136.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/136.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1501,7 +1501,7 @@
     <Slide>
         <name>IMG137</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/137.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/137.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1512,7 +1512,7 @@
     <Slide>
         <name>IMG138</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/138.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/138.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1523,7 +1523,7 @@
     <Slide>
         <name>IMG139</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/139.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/139.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1534,7 +1534,7 @@
     <Slide>
         <name>IMG140</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/140.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/140.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1545,7 +1545,7 @@
     <Slide>
         <name>IMG141</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/141.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/141.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1556,7 +1556,7 @@
     <Slide>
         <name>IMG142</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/142.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/142.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1567,7 +1567,7 @@
     <Slide>
         <name>IMG143</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/143.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/143.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1578,7 +1578,7 @@
     <Slide>
         <name>IMG144</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/144.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/144.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1589,7 +1589,7 @@
     <Slide>
         <name>IMG145</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/145.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/145.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1600,7 +1600,7 @@
     <Slide>
         <name>IMG146</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/146.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/146.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1611,7 +1611,7 @@
     <Slide>
         <name>IMG147</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/147.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/147.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1622,7 +1622,7 @@
     <Slide>
         <name>IMG148</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/148.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/148.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1633,7 +1633,7 @@
     <Slide>
         <name>IMG149</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/149.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/149.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1644,7 +1644,7 @@
     <Slide>
         <name>IMG150</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/150.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/150.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1655,7 +1655,7 @@
     <Slide>
         <name>IMG151</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/151.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/151.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1666,7 +1666,7 @@
     <Slide>
         <name>IMG152</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/152.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/152.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1677,7 +1677,7 @@
     <Slide>
         <name>IMG153</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/153.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/153.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1688,7 +1688,7 @@
     <Slide>
         <name>IMG154</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/154.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/154.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1699,7 +1699,7 @@
     <Slide>
         <name>IMG155</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/155.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/155.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1710,7 +1710,7 @@
     <Slide>
         <name>IMG156</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/156.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/156.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1721,7 +1721,7 @@
     <Slide>
         <name>IMG157</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/157.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/157.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1732,7 +1732,7 @@
     <Slide>
         <name>IMG158</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/158.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/158.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1743,7 +1743,7 @@
     <Slide>
         <name>IMG159</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/159.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/159.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1754,7 +1754,7 @@
     <Slide>
         <name>IMG160</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/160.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/160.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1765,7 +1765,7 @@
     <Slide>
         <name>IMG161</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/161.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/161.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1776,7 +1776,7 @@
     <Slide>
         <name>IMG162</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/162.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/162.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1787,7 +1787,7 @@
     <Slide>
         <name>IMG163</name>
         <condition>2</condition>
-        <Picture>.././UpdatedSnodgrass/163.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/163.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1798,7 +1798,7 @@
     <Slide>
         <name>IMG164</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/164.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/164.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1809,7 +1809,7 @@
     <Slide>
         <name>IMG165</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/165.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/165.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1820,7 +1820,7 @@
     <Slide>
         <name>IMG166</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/166.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/166.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1831,7 +1831,7 @@
     <Slide>
         <name>IMG167</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/167.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/167.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1842,7 +1842,7 @@
     <Slide>
         <name>IMG168</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/168.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/168.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1853,7 +1853,7 @@
     <Slide>
         <name>IMG169</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/169.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/169.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1864,7 +1864,7 @@
     <Slide>
         <name>IMG170</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/170.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/170.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1875,7 +1875,7 @@
     <Slide>
         <name>IMG171</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/171.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/171.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1886,7 +1886,7 @@
     <Slide>
         <name>IMG172</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/172.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/172.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1897,7 +1897,7 @@
     <Slide>
         <name>IMG173</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/173.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/173.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1908,7 +1908,7 @@
     <Slide>
         <name>IMG174</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/174.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/174.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1919,7 +1919,7 @@
     <Slide>
         <name>IMG175</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/175.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/175.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1930,7 +1930,7 @@
     <Slide>
         <name>IMG176</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/176.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/176.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1941,7 +1941,7 @@
     <Slide>
         <name>IMG177</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/177.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/177.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1952,7 +1952,7 @@
     <Slide>
         <name>IMG178</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/178.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/178.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1963,7 +1963,7 @@
     <Slide>
         <name>IMG179</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/179.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/179.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1974,7 +1974,7 @@
     <Slide>
         <name>IMG180</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/180.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/180.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1985,7 +1985,7 @@
     <Slide>
         <name>IMG181</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/181.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/181.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -1996,7 +1996,7 @@
     <Slide>
         <name>IMG182</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/182.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/182.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2007,7 +2007,7 @@
     <Slide>
         <name>IMG183</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/183.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/183.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2018,7 +2018,7 @@
     <Slide>
         <name>IMG184</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/184.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/184.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2029,7 +2029,7 @@
     <Slide>
         <name>IMG185</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/185.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/185.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2040,7 +2040,7 @@
     <Slide>
         <name>IMG186</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/186.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/186.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2051,7 +2051,7 @@
     <Slide>
         <name>IMG187</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/187.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/187.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2062,7 +2062,7 @@
     <Slide>
         <name>IMG188</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/188.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/188.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2073,7 +2073,7 @@
     <Slide>
         <name>IMG189</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/189.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/189.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2084,7 +2084,7 @@
     <Slide>
         <name>IMG190</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/190.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/190.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2095,7 +2095,7 @@
     <Slide>
         <name>IMG191</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/191.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/191.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2106,7 +2106,7 @@
     <Slide>
         <name>IMG192</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/192.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/192.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2117,7 +2117,7 @@
     <Slide>
         <name>IMG193</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/193.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/193.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2128,7 +2128,7 @@
     <Slide>
         <name>IMG194</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/194.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/194.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2139,7 +2139,7 @@
     <Slide>
         <name>IMG195</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/195.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/195.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2150,7 +2150,7 @@
     <Slide>
         <name>IMG196</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/196.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/196.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2161,7 +2161,7 @@
     <Slide>
         <name>IMG197</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/197.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/197.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2172,7 +2172,7 @@
     <Slide>
         <name>IMG198</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/198.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/198.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2183,7 +2183,7 @@
     <Slide>
         <name>IMG199</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/199.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/199.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2194,7 +2194,7 @@
     <Slide>
         <name>IMG200</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/200.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/200.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2205,7 +2205,7 @@
     <Slide>
         <name>IMG201</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/201.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/201.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2216,7 +2216,7 @@
     <Slide>
         <name>IMG202</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/202.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/202.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2227,7 +2227,7 @@
     <Slide>
         <name>IMG203</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/203.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/203.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2238,7 +2238,7 @@
     <Slide>
         <name>IMG204</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/204.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/204.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2249,7 +2249,7 @@
     <Slide>
         <name>IMG205</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/205.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/205.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2260,7 +2260,7 @@
     <Slide>
         <name>IMG206</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/206.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/206.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2271,7 +2271,7 @@
     <Slide>
         <name>IMG207</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/207.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/207.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2282,7 +2282,7 @@
     <Slide>
         <name>IMG208</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/208.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/208.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2293,7 +2293,7 @@
     <Slide>
         <name>IMG209</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/209.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/209.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2304,7 +2304,7 @@
     <Slide>
         <name>IMG210</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/210.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/210.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2315,7 +2315,7 @@
     <Slide>
         <name>IMG211</name>
         <condition>2</condition>
-        <Picture>.././UpdatedSnodgrass/211.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/211.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2326,7 +2326,7 @@
     <Slide>
         <name>IMG212</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/212.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/212.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2337,7 +2337,7 @@
     <Slide>
         <name>IMG213</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/213.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/213.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2348,7 +2348,7 @@
     <Slide>
         <name>IMG214</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/214.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/214.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2359,7 +2359,7 @@
     <Slide>
         <name>IMG215</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/215.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/215.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2370,7 +2370,7 @@
     <Slide>
         <name>IMG216</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/216.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/216.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2381,7 +2381,7 @@
     <Slide>
         <name>IMG217</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/217.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/217.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2392,7 +2392,7 @@
     <Slide>
         <name>IMG218</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/218.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/218.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2403,7 +2403,7 @@
     <Slide>
         <name>IMG219</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/219.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/219.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2414,7 +2414,7 @@
     <Slide>
         <name>IMG220</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/220.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/220.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2425,7 +2425,7 @@
     <Slide>
         <name>IMG221</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/221.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/221.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2436,7 +2436,7 @@
     <Slide>
         <name>IMG222</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/222.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/222.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2447,7 +2447,7 @@
     <Slide>
         <name>IMG223</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/223.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/223.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2458,7 +2458,7 @@
     <Slide>
         <name>IMG224</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/224.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/224.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2469,7 +2469,7 @@
     <Slide>
         <name>IMG225</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/225.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/225.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2480,7 +2480,7 @@
     <Slide>
         <name>IMG226</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/226.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/226.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2491,7 +2491,7 @@
     <Slide>
         <name>IMG227</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/227.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/227.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2502,7 +2502,7 @@
     <Slide>
         <name>IMG228</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/228.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/228.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2513,7 +2513,7 @@
     <Slide>
         <name>IMG229</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/229.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/229.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2524,7 +2524,7 @@
     <Slide>
         <name>IMG230</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/230.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/230.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2535,7 +2535,7 @@
     <Slide>
         <name>IMG231</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/231.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/231.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2546,7 +2546,7 @@
     <Slide>
         <name>IMG232</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/232.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/232.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2557,7 +2557,7 @@
     <Slide>
         <name>IMG233</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/233.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/233.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2568,7 +2568,7 @@
     <Slide>
         <name>IMG234</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/234.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/234.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2579,7 +2579,7 @@
     <Slide>
         <name>IMG235</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/235.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/235.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2590,7 +2590,7 @@
     <Slide>
         <name>IMG236</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/236.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/236.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2601,7 +2601,7 @@
     <Slide>
         <name>IMG237</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/237.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/237.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2612,7 +2612,7 @@
     <Slide>
         <name>IMG238</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/238.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/238.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2623,7 +2623,7 @@
     <Slide>
         <name>IMG239</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/239.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/239.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2634,7 +2634,7 @@
     <Slide>
         <name>IMG240</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/240.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/240.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2645,7 +2645,7 @@
     <Slide>
         <name>IMG241</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/241.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/241.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2656,7 +2656,7 @@
     <Slide>
         <name>IMG242</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/242.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/242.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2667,7 +2667,7 @@
     <Slide>
         <name>IMG243</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/243.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/243.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2678,7 +2678,7 @@
     <Slide>
         <name>IMG244</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/244.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/244.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2689,7 +2689,7 @@
     <Slide>
         <name>IMG245</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/245.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/245.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2700,7 +2700,7 @@
     <Slide>
         <name>IMG246</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/246.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/246.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2711,7 +2711,7 @@
     <Slide>
         <name>IMG247</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/247.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/247.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2722,7 +2722,7 @@
     <Slide>
         <name>IMG248</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/248.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/248.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2733,7 +2733,7 @@
     <Slide>
         <name>IMG249</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/249.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/249.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2744,7 +2744,7 @@
     <Slide>
         <name>IMG250</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/250.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/250.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2755,7 +2755,7 @@
     <Slide>
         <name>IMG251</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/251.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/251.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2766,7 +2766,7 @@
     <Slide>
         <name>IMG252</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/252.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/252.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2777,7 +2777,7 @@
     <Slide>
         <name>IMG253</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/253.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/253.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2788,7 +2788,7 @@
     <Slide>
         <name>IMG254</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/254.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/254.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2799,7 +2799,7 @@
     <Slide>
         <name>IMG255</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/255.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/255.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2810,7 +2810,7 @@
     <Slide>
         <name>IMG256</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/256.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/256.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2821,7 +2821,7 @@
     <Slide>
         <name>IMG257</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/257.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/257.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2832,7 +2832,7 @@
     <Slide>
         <name>IMG258</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/258.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/258.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2843,7 +2843,7 @@
     <Slide>
         <name>IMG259</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/259.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/259.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
@@ -2854,7 +2854,7 @@
     <Slide>
         <name>IMG260</name>
         <condition>1</condition>
-        <Picture>.././UpdatedSnodgrass/260.jpeg</Picture>
+        <Picture>./UpdatedSnodgrass/260.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
             <key>C</key>
