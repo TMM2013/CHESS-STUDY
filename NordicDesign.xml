@@ -21,7 +21,7 @@
         <Slices>39</Slices>
         <TimeToRepeat>2000</TimeToRepeat>
         <InterPulseInterval>2000</InterPulseInterval>
-        <Volumes>200</Volumes>
+        <Volumes>141</Volumes>
     </Settings>
 
     <Defaults>
