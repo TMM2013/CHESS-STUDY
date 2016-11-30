@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-I"?>
+<!-- Must be a top level tag to include all tags to include -->
+<ParameterDescriptionFile>
+
+    <Color>
+        <name>White</name>
+        <valueR>255</valueR>
+        <valueG>255</valueG>
+        <valueB>255</valueB>
+    </Color>
+
+    <Position>
+        <name>Mid</name>
+        <horizontal>center</horizontal>
+        <vertical>center</vertical>
+    </Position>
+
+    <Settings>
+        <Name>EpisodiMemory1</Name>
+        <Description>The episodic memory task run1, duration, how to run</Description>
+        <Slices>39</Slices>
+        <TimeToRepeat>2000</TimeToRepeat>
+        <InterPulseInterval>2000</InterPulseInterval>
+        <Volumes>200</Volumes>
+    </Settings>
+
+    <Defaults>
+        <BackGroundColor>White</BackGroundColor>
+        <FontSize>72</FontSize>
+    </Defaults>
+
+    <Include>./source/slides.xml</Include>
+
+    <Trial>
+        <name>Trial0001</name>
+        <show>
+            <item>IMG169</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0002</name>
+        <show>
+            <item>IMG034</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0003</name>
+        <show>
+            <item>IMG211</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0004</name>
+        <show>
+            <item>IMG118</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0005</name>
+        <show>
+            <item>IMG016</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0006</name>
+        <show>
+            <item>IMG081</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0007</name>
+        <show>
+            <item>IMG163</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0008</name>
+        <show>
+            <item>IMG026</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0009</name>
+        <show>
+            <item>IMG096</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0010</name>
+        <show>
+            <item>IMG249</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0011</name>
+        <show>
+            <item>IMG081</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0012</name>
+        <show>
+            <item>IMG163</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0013</name>
+        <show>
+            <item>IMG104</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0014</name>
+        <show>
+            <item>IMG156</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0015</name>
+        <show>
+            <item>IMG163</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0016</name>
+        <show>
+            <item>IMG118</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0017</name>
+        <show>
+            <item>IMG016</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0018</name>
+        <show>
+            <item>IMG211</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0019</name>
+        <show>
+            <item>IMG189</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0020</name>
+        <show>
+            <item>IMG118</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0021</name>
+        <show>
+            <item>IMG163</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0022</name>
+        <show>
+            <item>IMG016</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0023</name>
+        <show>
+            <item>IMG048</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0024</name>
+        <show>
+            <item>IMG081</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0025</name>
+        <show>
+            <item>IMG118</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0026</name>
+        <show>
+            <item>IMG163</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0027</name>
+        <show>
+            <item>IMG002</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0028</name>
+        <show>
+            <item>IMG255</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0029</name>
+        <show>
+            <item>IMG246</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0030</name>
+        <show>
+            <item>IMG111</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0031</name>
+        <show>
+            <item>IMG163</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0032</name>
+        <show>
+            <item>IMG136</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0033</name>
+        <show>
+            <item>IMG135</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0034</name>
+        <show>
+            <item>IMG014</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0035</name>
+        <show>
+            <item>IMG108</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0036</name>
+        <show>
+            <item>IMG260</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0037</name>
+        <show>
+            <item>IMG211</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0038</name>
+        <show>
+            <item>IMG081</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0039</name>
+        <show>
+            <item>IMG163</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0040</name>
+        <show>
+            <item>IMG016</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0041</name>
+        <show>
+            <item>IMG118</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0042</name>
+        <show>
+            <item>IMG098</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0043</name>
+        <show>
+            <item>IMG181</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0044</name>
+        <show>
+            <item>IMG021</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0045</name>
+        <show>
+            <item>IMG081</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0046</name>
+        <show>
+            <item>IMG129</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0047</name>
+        <show>
+            <item>IMG220</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0048</name>
+        <show>
+            <item>IMG163</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0049</name>
+        <show>
+            <item>IMG016</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0050</name>
+        <show>
+            <item>IMG081</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0051</name>
+        <show>
+            <item>IMG118</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0052</name>
+        <show>
+            <item>IMG211</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0053</name>
+        <show>
+            <item>IMG077</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0054</name>
+        <show>
+            <item>IMG081</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0055</name>
+        <show>
+            <item>IMG068</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0056</name>
+        <show>
+            <item>IMG032</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0057</name>
+        <show>
+            <item>IMG083</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0058</name>
+        <show>
+            <item>IMG056</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0059</name>
+        <show>
+            <item>IMG139</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0060</name>
+        <show>
+            <item>IMG211</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0061</name>
+        <show>
+            <item>IMG118</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0062</name>
+        <show>
+            <item>IMG050</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0063</name>
+        <show>
+            <item>IMG095</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0064</name>
+        <show>
+            <item>IMG230</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0065</name>
+        <show>
+            <item>IMG122</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0066</name>
+        <show>
+            <item>IMG016</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0067</name>
+        <show>
+            <item>IMG211</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0068</name>
+        <show>
+            <item>IMG118</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0069</name>
+        <show>
+            <item>IMG081</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0070</name>
+        <show>
+            <item>IMG252</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0071</name>
+        <show>
+            <item>IMG207</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0072</name>
+        <show>
+            <item>IMG102</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0073</name>
+        <show>
+            <item>IMG211</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0074</name>
+        <show>
+            <item>IMG016</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0075</name>
+        <show>
+            <item>IMG163</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0076</name>
+        <show>
+            <item>IMG157</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0077</name>
+        <show>
+            <item>IMG001</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0078</name>
+        <show>
+            <item>IMG081</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0079</name>
+        <show>
+            <item>IMG016</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0080</name>
+        <show>
+            <item>IMG170</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0081</name>
+        <show>
+            <item>IMG165</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0082</name>
+        <show>
+            <item>IMG173</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0083</name>
+        <show>
+            <item>IMG250</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0084</name>
+        <show>
+            <item>IMG006</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0085</name>
+        <show>
+            <item>IMG081</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0086</name>
+        <show>
+            <item>IMG016</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0087</name>
+        <show>
+            <item>IMG197</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0088</name>
+        <show>
+            <item>IMG239</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0089</name>
+        <show>
+            <item>IMG146</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0090</name>
+        <show>
+            <item>IMG216</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0091</name>
+        <show>
+            <item>IMG163</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0092</name>
+        <show>
+            <item>IMG211</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0093</name>
+        <show>
+            <item>IMG016</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+    
+    <Trial>
+        <name>Trial0094</name>
+        <show>
+            <item>IMG081</item>
+        </show>
+        <show>
+            <item>NoImg</item>
+        </show>
+    </Trial>
+
+    <Session>
+        <name>Run1</name>
+        <runtrial>Trial0001</runtrial>
+        <runtrial>Trial0002</runtrial>
+        <runtrial>Trial0003</runtrial>
+        <runtrial>Trial0004</runtrial>
+        <runtrial>Trial0005</runtrial>
+        <runtrial>Trial0006</runtrial>
+        <runtrial>Trial0007</runtrial>
+        <runtrial>Trial0008</runtrial>
+        <runtrial>Trial0009</runtrial>
+        <runtrial>Trial0010</runtrial>
+        <runtrial>Trial0011</runtrial>
+        <runtrial>Trial0012</runtrial>
+        <runtrial>Trial0013</runtrial>
+        <runtrial>Trial0014</runtrial>
+        <runtrial>Trial0015</runtrial>
+        <runtrial>Trial0016</runtrial>
+        <runtrial>Trial0017</runtrial>
+        <runtrial>Trial0018</runtrial>
+        <runtrial>Trial0019</runtrial>
+        <runtrial>Trial0020</runtrial>
+        <runtrial>Trial0021</runtrial>
+        <runtrial>Trial0022</runtrial>
+        <runtrial>Trial0023</runtrial>
+        <runtrial>Trial0024</runtrial>
+        <runtrial>Trial0025</runtrial>
+        <runtrial>Trial0026</runtrial>
+        <runtrial>Trial0027</runtrial>
+        <runtrial>Trial0028</runtrial>
+        <runtrial>Trial0029</runtrial>
+        <runtrial>Trial0030</runtrial>
+        <runtrial>Trial0031</runtrial>
+        <runtrial>Trial0032</runtrial>
+        <runtrial>Trial0033</runtrial>
+        <runtrial>Trial0034</runtrial>
+        <runtrial>Trial0035</runtrial>
+        <runtrial>Trial0036</runtrial>
+        <runtrial>Trial0037</runtrial>
+        <runtrial>Trial0038</runtrial>
+        <runtrial>Trial0039</runtrial>
+        <runtrial>Trial0040</runtrial>
+        <runtrial>Trial0041</runtrial>
+        <runtrial>Trial0042</runtrial>
+        <runtrial>Trial0043</runtrial>
+        <runtrial>Trial0044</runtrial>
+        <runtrial>Trial0045</runtrial>
+        <runtrial>Trial0046</runtrial>
+        <runtrial>Trial0047</runtrial>
+        <runtrial>Trial0048</runtrial>
+        <runtrial>Trial0049</runtrial>
+        <runtrial>Trial0050</runtrial>
+        <runtrial>Trial0051</runtrial>
+        <runtrial>Trial0052</runtrial>
+        <runtrial>Trial0053</runtrial>
+        <runtrial>Trial0054</runtrial>
+        <runtrial>Trial0055</runtrial>
+        <runtrial>Trial0056</runtrial>
+        <runtrial>Trial0057</runtrial>
+        <runtrial>Trial0058</runtrial>
+        <runtrial>Trial0059</runtrial>
+        <runtrial>Trial0060</runtrial>
+        <runtrial>Trial0061</runtrial>
+        <runtrial>Trial0062</runtrial>
+        <runtrial>Trial0063</runtrial>
+        <runtrial>Trial0064</runtrial>
+        <runtrial>Trial0065</runtrial>
+        <runtrial>Trial0066</runtrial>
+        <runtrial>Trial0067</runtrial>
+        <runtrial>Trial0068</runtrial>
+        <runtrial>Trial0069</runtrial>
+        <runtrial>Trial0070</runtrial>
+        <runtrial>Trial0071</runtrial>
+        <runtrial>Trial0072</runtrial>
+        <runtrial>Trial0073</runtrial>
+        <runtrial>Trial0074</runtrial>
+        <runtrial>Trial0075</runtrial>
+        <runtrial>Trial0076</runtrial>
+        <runtrial>Trial0077</runtrial>
+        <runtrial>Trial0078</runtrial>
+        <runtrial>Trial0079</runtrial>
+        <runtrial>Trial0080</runtrial>
+        <runtrial>Trial0081</runtrial>
+        <runtrial>Trial0082</runtrial>
+        <runtrial>Trial0083</runtrial>
+        <runtrial>Trial0084</runtrial>
+        <runtrial>Trial0085</runtrial>
+        <runtrial>Trial0086</runtrial>
+        <runtrial>Trial0087</runtrial>
+        <runtrial>Trial0088</runtrial>
+        <runtrial>Trial0089</runtrial>
+        <runtrial>Trial0090</runtrial>
+        <runtrial>Trial0091</runtrial>
+        <runtrial>Trial0092</runtrial>
+        <runtrial>Trial0093</runtrial>
+        <runtrial>Trial0094</runtrial>
+    </Session>
+
+<ParameterDescriptFile>
+
