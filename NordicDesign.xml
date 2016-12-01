@@ -42,8 +42,17 @@
     <Include Version="Run3">./source/TrialList3.txt</Include>
     <Include Version="Run4">./source/TrialList4.txt</Include>
 
+    <Trial>
+        <name>Trial0000</name>
+        <show>
+            <item>NoImg</item>
+            <duration>5000</duration>
+        </show>
+    </Trial>
+
     <Session>
         <name>EpisodicMemory</name>
+        <runtrial>Trial0000</runtrial>
         <runtrial>Trial0001</runtrial>
         <runtrial>Trial0002</runtrial>
         <runtrial>Trial0003</runtrial>
