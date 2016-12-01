@@ -3,7 +3,7 @@
 Run=$1
 DesignFile=/home/heffjos/Documents/EpisodicMemory/Design.csv
 
-echo "<?xml version="1.0" encoding="UTF-8"?>"
+echo '<?xml version="1.0" encoding="UTF-8"?>'
 echo "<!-- Must be a top level tag to include all tags to include -->"
 echo "<IncludeTrials>"
 
