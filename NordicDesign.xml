@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Must be a top level tag to include all tags to include -->
+<ParameterDescriptionFile>
+
+    <Color>
+        <name>White</name>
+        <valueR>255</valueR>
+        <valueG>255</valueG>
+        <valueB>255</valueB>
+    </Color>
+
+    <Position>
+        <name>Mid</name>
+        <horizontal>center</horizontal>
+        <vertical>center</vertical>
+    </Position>
+
+    <Versions>
+        <Version>Run1</Version>
+        <Version>Run2</Version>
+        <Version>Run3</Version>
+        <Version>Run4</Version>
+    </Versions>
+
+    <Settings>
+        <Name>EpisodicMemory</Name>
+        <Description>The episodic memory task run1, duration, how to run</Description>
+        <Slices>39</Slices>
+        <TimeToRepeat>2000</TimeToRepeat>
+        <InterPulseInterval>2000</InterPulseInterval>
+        <Volumes>141</Volumes>
+    </Settings>
+
+    <Defaults>
+        <BackGroundColor>White</BackGroundColor>
+        <FontSize>72</FontSize>
+    </Defaults>
+
+    <Include>./source/slides.xml</Include>
+    <Include Version="Run1">./source/TrialList1.txt</Include>
+    <Include Version="Run2">./source/TrialList2.txt</Include>
+    <Include Version="Run3">./source/TrialList3.txt</Include>
+    <Include Version="Run4">./source/TrialList4.txt</Include>
+
+    <Trial>
+        <name>Trial0000</name>
+        <show>
+            <item>NoImg</item>
+            <duration>5000</duration>
+        </show>
+    </Trial>
+
+    <Session>
+        <name>EpisodicMemory</name>
+        <runtrial>Trial0000</runtrial>
+        <runtrial>Trial0001</runtrial>
+        <runtrial>Trial0002</runtrial>
+        <runtrial>Trial0003</runtrial>
+        <runtrial>Trial0004</runtrial>
+        <runtrial>Trial0005</runtrial>
+        <runtrial>Trial0006</runtrial>
+        <runtrial>Trial0007</runtrial>
+        <runtrial>Trial0008</runtrial>
+        <runtrial>Trial0009</runtrial>
+        <runtrial>Trial0010</runtrial>
+        <runtrial>Trial0011</runtrial>
+        <runtrial>Trial0012</runtrial>
+        <runtrial>Trial0013</runtrial>
+        <runtrial>Trial0014</runtrial>
+        <runtrial>Trial0015</runtrial>
+        <runtrial>Trial0016</runtrial>
+        <runtrial>Trial0017</runtrial>
+        <runtrial>Trial0018</runtrial>
+        <runtrial>Trial0019</runtrial>
+        <runtrial>Trial0020</runtrial>
+        <runtrial>Trial0021</runtrial>
+        <runtrial>Trial0022</runtrial>
+        <runtrial>Trial0023</runtrial>
+        <runtrial>Trial0024</runtrial>
+        <runtrial>Trial0025</runtrial>
+        <runtrial>Trial0026</runtrial>
+        <runtrial>Trial0027</runtrial>
+        <runtrial>Trial0028</runtrial>
+        <runtrial>Trial0029</runtrial>
+        <runtrial>Trial0030</runtrial>
+        <runtrial>Trial0031</runtrial>
+        <runtrial>Trial0032</runtrial>
+        <runtrial>Trial0033</runtrial>
+        <runtrial>Trial0034</runtrial>
+        <runtrial>Trial0035</runtrial>
+        <runtrial>Trial0036</runtrial>
+        <runtrial>Trial0037</runtrial>
+        <runtrial>Trial0038</runtrial>
+        <runtrial>Trial0039</runtrial>
+        <runtrial>Trial0040</runtrial>
+        <runtrial>Trial0041</runtrial>
+        <runtrial>Trial0042</runtrial>
+        <runtrial>Trial0043</runtrial>
+        <runtrial>Trial0044</runtrial>
+        <runtrial>Trial0045</runtrial>
+        <runtrial>Trial0046</runtrial>
+        <runtrial>Trial0047</runtrial>
+        <runtrial>Trial0048</runtrial>
+        <runtrial>Trial0049</runtrial>
+        <runtrial>Trial0050</runtrial>
+        <runtrial>Trial0051</runtrial>
+        <runtrial>Trial0052</runtrial>
+        <runtrial>Trial0053</runtrial>
+        <runtrial>Trial0054</runtrial>
+        <runtrial>Trial0055</runtrial>
+        <runtrial>Trial0056</runtrial>
+        <runtrial>Trial0057</runtrial>
+        <runtrial>Trial0058</runtrial>
+        <runtrial>Trial0059</runtrial>
+        <runtrial>Trial0060</runtrial>
+        <runtrial>Trial0061</runtrial>
+        <runtrial>Trial0062</runtrial>
+        <runtrial>Trial0063</runtrial>
+        <runtrial>Trial0064</runtrial>
+        <runtrial>Trial0065</runtrial>
+        <runtrial>Trial0066</runtrial>
+        <runtrial>Trial0067</runtrial>
+        <runtrial>Trial0068</runtrial>
+        <runtrial>Trial0069</runtrial>
+        <runtrial>Trial0070</runtrial>
+        <runtrial>Trial0071</runtrial>
+        <runtrial>Trial0072</runtrial>
+        <runtrial>Trial0073</runtrial>
+        <runtrial>Trial0074</runtrial>
+        <runtrial>Trial0075</runtrial>
+        <runtrial>Trial0076</runtrial>
+        <runtrial>Trial0077</runtrial>
+        <runtrial>Trial0078</runtrial>
+        <runtrial>Trial0079</runtrial>
+        <runtrial>Trial0080</runtrial>
+        <runtrial>Trial0081</runtrial>
+        <runtrial>Trial0082</runtrial>
+        <runtrial>Trial0083</runtrial>
+        <runtrial>Trial0084</runtrial>
+        <runtrial>Trial0085</runtrial>
+        <runtrial>Trial0086</runtrial>
+        <runtrial>Trial0087</runtrial>
+        <runtrial>Trial0088</runtrial>
+        <runtrial>Trial0089</runtrial>
+        <runtrial>Trial0090</runtrial>
+        <runtrial>Trial0091</runtrial>
+        <runtrial>Trial0092</runtrial>
+        <runtrial>Trial0093</runtrial>
+        <runtrial>Trial0094</runtrial>
+    </Session>
+
+</ParameterDescriptionFile>
+
