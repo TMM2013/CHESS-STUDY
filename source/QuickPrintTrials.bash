@@ -8,10 +8,16 @@ for Line in `grep -E ^${Run} ${DesignFile}`
 do
     ImgName=`echo ${Line} | awk -F, '{print $5}'`
     ImgName=IMG${ImgName/.jpg/}
+    ConditionName=`echo ${Line} | awk -F, '{print $2}'`
     TrialName=`printf Trial%04d ${i}`
     echo "<Trial>"
     echo "    <name>${TrialName}</name>"
-    echo "    <condition>1</condition>"
+    if [ ${ConditionName} == "NV" ]
+    then
+        echo "    <condition>1</condition>"
+    else
+        echo "    <condition>2</condition>"
+    fi
     echo "    <show>"
     echo "        <item>${ImgName}</item>"
     echo "    </show>"
