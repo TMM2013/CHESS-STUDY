@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Must be a top level tag to include all tags to include -->
 <IncludeSlides>
+    <Slide>
+        <name>Directions</name>
+        <duration>10000</duration>
+        <text>You will see a series of images.</text>
+        <text>Some new, some prevously viewed during training.</text>
+        <text>Press the "C" key when you see images previously viewed during training.</text>
+        <color>Black</color>
+        <font>Arial</font>
+        <fontsize>24</fontsize>
+        <backGroundColor>Black</backGroundColor>
+    </Slide>
 
     <Slide>
         <name>IMG001</name>
@@ -12,7 +23,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG002</name>
         <condition>1</condition>
@@ -23,7 +34,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG003</name>
         <condition>1</condition>
@@ -34,7 +45,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG004</name>
         <condition>1</condition>
@@ -45,7 +56,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG005</name>
         <condition>1</condition>
@@ -56,7 +67,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG006</name>
         <condition>1</condition>
@@ -67,7 +78,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG007</name>
         <condition>1</condition>
@@ -78,7 +89,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG008</name>
         <condition>1</condition>
@@ -89,7 +100,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG009</name>
         <condition>1</condition>
@@ -100,7 +111,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG010</name>
         <condition>1</condition>
@@ -111,7 +122,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG011</name>
         <condition>1</condition>
@@ -122,7 +133,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG012</name>
         <condition>1</condition>
@@ -133,7 +144,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG013</name>
         <condition>1</condition>
@@ -144,7 +155,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG014</name>
         <condition>1</condition>
@@ -155,7 +166,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG015</name>
         <condition>1</condition>
@@ -166,7 +177,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG016</name>
         <condition>2</condition>
@@ -177,7 +188,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG017</name>
         <condition>1</condition>
@@ -188,7 +199,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG018</name>
         <condition>1</condition>
@@ -199,7 +210,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG019</name>
         <condition>1</condition>
@@ -210,7 +221,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG020</name>
         <condition>1</condition>
@@ -221,7 +232,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG021</name>
         <condition>1</condition>
@@ -232,7 +243,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG022</name>
         <condition>1</condition>
@@ -243,7 +254,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG023</name>
         <condition>1</condition>
@@ -254,7 +265,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG024</name>
         <condition>1</condition>
@@ -265,7 +276,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG025</name>
         <condition>1</condition>
@@ -276,7 +287,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG026</name>
         <condition>1</condition>
@@ -287,7 +298,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG027</name>
         <condition>1</condition>
@@ -298,7 +309,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG028</name>
         <condition>1</condition>
@@ -309,7 +320,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG029</name>
         <condition>1</condition>
@@ -320,7 +331,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG030</name>
         <condition>1</condition>
@@ -331,7 +342,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG031</name>
         <condition>1</condition>
@@ -342,7 +353,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG032</name>
         <condition>1</condition>
@@ -353,7 +364,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG033</name>
         <condition>1</condition>
@@ -364,7 +375,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG034</name>
         <condition>1</condition>
@@ -375,7 +386,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG035</name>
         <condition>1</condition>
@@ -386,7 +397,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG036</name>
         <condition>1</condition>
@@ -397,7 +408,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG037</name>
         <condition>1</condition>
@@ -408,7 +419,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG038</name>
         <condition>1</condition>
@@ -419,7 +430,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG039</name>
         <condition>1</condition>
@@ -430,7 +441,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG040</name>
         <condition>1</condition>
@@ -441,7 +452,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG041</name>
         <condition>1</condition>
@@ -452,7 +463,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG042</name>
         <condition>1</condition>
@@ -463,7 +474,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG043</name>
         <condition>1</condition>
@@ -474,7 +485,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG044</name>
         <condition>1</condition>
@@ -485,7 +496,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG045</name>
         <condition>1</condition>
@@ -496,7 +507,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG046</name>
         <condition>1</condition>
@@ -507,7 +518,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG047</name>
         <condition>1</condition>
@@ -518,7 +529,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG048</name>
         <condition>1</condition>
@@ -529,7 +540,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG049</name>
         <condition>1</condition>
@@ -540,7 +551,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG050</name>
         <condition>1</condition>
@@ -551,7 +562,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG051</name>
         <condition>1</condition>
@@ -562,7 +573,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG052</name>
         <condition>1</condition>
@@ -573,7 +584,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG053</name>
         <condition>1</condition>
@@ -584,7 +595,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG054</name>
         <condition>1</condition>
@@ -595,7 +606,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG055</name>
         <condition>1</condition>
@@ -606,7 +617,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG056</name>
         <condition>1</condition>
@@ -617,7 +628,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG057</name>
         <condition>1</condition>
@@ -628,7 +639,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG058</name>
         <condition>1</condition>
@@ -639,7 +650,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG059</name>
         <condition>1</condition>
@@ -650,7 +661,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG060</name>
         <condition>1</condition>
@@ -661,7 +672,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG061</name>
         <condition>1</condition>
@@ -672,7 +683,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG062</name>
         <condition>1</condition>
@@ -683,7 +694,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG063</name>
         <condition>1</condition>
@@ -694,7 +705,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG064</name>
         <condition>1</condition>
@@ -705,7 +716,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG065</name>
         <condition>1</condition>
@@ -716,7 +727,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG066</name>
         <condition>1</condition>
@@ -727,7 +738,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG067</name>
         <condition>1</condition>
@@ -738,7 +749,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG068</name>
         <condition>1</condition>
@@ -749,7 +760,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG069</name>
         <condition>1</condition>
@@ -760,7 +771,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG070</name>
         <condition>1</condition>
@@ -771,7 +782,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG071</name>
         <condition>1</condition>
@@ -782,7 +793,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG072</name>
         <condition>1</condition>
@@ -793,7 +804,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG073</name>
         <condition>1</condition>
@@ -804,7 +815,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG074</name>
         <condition>1</condition>
@@ -815,7 +826,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG075</name>
         <condition>1</condition>
@@ -826,7 +837,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG076</name>
         <condition>1</condition>
@@ -837,7 +848,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG077</name>
         <condition>1</condition>
@@ -848,7 +859,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG078</name>
         <condition>1</condition>
@@ -859,7 +870,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG079</name>
         <condition>1</condition>
@@ -870,7 +881,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG080</name>
         <condition>1</condition>
@@ -881,7 +892,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG081</name>
         <condition>2</condition>
@@ -892,7 +903,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG082</name>
         <condition>1</condition>
@@ -903,7 +914,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG083</name>
         <condition>1</condition>
@@ -914,7 +925,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG084</name>
         <condition>1</condition>
@@ -925,7 +936,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG085</name>
         <condition>1</condition>
@@ -936,7 +947,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG086</name>
         <condition>1</condition>
@@ -947,7 +958,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG087</name>
         <condition>1</condition>
@@ -958,7 +969,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG088</name>
         <condition>1</condition>
@@ -969,7 +980,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG089</name>
         <condition>1</condition>
@@ -980,7 +991,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG090</name>
         <condition>1</condition>
@@ -991,7 +1002,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG091</name>
         <condition>1</condition>
@@ -1002,7 +1013,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG092</name>
         <condition>1</condition>
@@ -1013,7 +1024,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG093</name>
         <condition>1</condition>
@@ -1024,7 +1035,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG094</name>
         <condition>1</condition>
@@ -1035,7 +1046,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG095</name>
         <condition>1</condition>
@@ -1046,7 +1057,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG096</name>
         <condition>1</condition>
@@ -1057,7 +1068,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG097</name>
         <condition>1</condition>
@@ -1068,7 +1079,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG098</name>
         <condition>1</condition>
@@ -1079,7 +1090,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG099</name>
         <condition>1</condition>
@@ -1090,7 +1101,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG100</name>
         <condition>1</condition>
@@ -1101,7 +1112,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG101</name>
         <condition>1</condition>
@@ -1112,7 +1123,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG102</name>
         <condition>1</condition>
@@ -1123,7 +1134,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG103</name>
         <condition>1</condition>
@@ -1134,7 +1145,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG104</name>
         <condition>1</condition>
@@ -1145,7 +1156,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG105</name>
         <condition>1</condition>
@@ -1156,7 +1167,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG106</name>
         <condition>1</condition>
@@ -1167,7 +1178,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG107</name>
         <condition>1</condition>
@@ -1178,7 +1189,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG108</name>
         <condition>1</condition>
@@ -1189,7 +1200,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG109</name>
         <condition>1</condition>
@@ -1200,7 +1211,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG110</name>
         <condition>1</condition>
@@ -1211,7 +1222,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG111</name>
         <condition>1</condition>
@@ -1222,7 +1233,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG112</name>
         <condition>1</condition>
@@ -1233,7 +1244,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG113</name>
         <condition>1</condition>
@@ -1244,7 +1255,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG114</name>
         <condition>1</condition>
@@ -1255,7 +1266,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG115</name>
         <condition>1</condition>
@@ -1266,7 +1277,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG116</name>
         <condition>1</condition>
@@ -1277,7 +1288,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG117</name>
         <condition>1</condition>
@@ -1288,7 +1299,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG118</name>
         <condition>2</condition>
@@ -1299,7 +1310,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG119</name>
         <condition>1</condition>
@@ -1310,7 +1321,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG120</name>
         <condition>1</condition>
@@ -1321,7 +1332,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG121</name>
         <condition>1</condition>
@@ -1332,7 +1343,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG122</name>
         <condition>1</condition>
@@ -1343,7 +1354,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG123</name>
         <condition>1</condition>
@@ -1354,7 +1365,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG124</name>
         <condition>1</condition>
@@ -1365,7 +1376,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG125</name>
         <condition>1</condition>
@@ -1376,7 +1387,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG126</name>
         <condition>1</condition>
@@ -1387,7 +1398,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG127</name>
         <condition>1</condition>
@@ -1398,7 +1409,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG128</name>
         <condition>1</condition>
@@ -1409,7 +1420,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG129</name>
         <condition>1</condition>
@@ -1420,7 +1431,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG130</name>
         <condition>1</condition>
@@ -1431,7 +1442,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG131</name>
         <condition>1</condition>
@@ -1442,7 +1453,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG132</name>
         <condition>1</condition>
@@ -1453,7 +1464,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG133</name>
         <condition>1</condition>
@@ -1464,7 +1475,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG134</name>
         <condition>1</condition>
@@ -1475,7 +1486,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG135</name>
         <condition>1</condition>
@@ -1486,7 +1497,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG136</name>
         <condition>1</condition>
@@ -1497,7 +1508,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG137</name>
         <condition>1</condition>
@@ -1508,7 +1519,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG138</name>
         <condition>1</condition>
@@ -1519,7 +1530,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG139</name>
         <condition>1</condition>
@@ -1530,7 +1541,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG140</name>
         <condition>1</condition>
@@ -1541,7 +1552,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG141</name>
         <condition>1</condition>
@@ -1552,7 +1563,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG142</name>
         <condition>1</condition>
@@ -1563,7 +1574,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG143</name>
         <condition>1</condition>
@@ -1574,7 +1585,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG144</name>
         <condition>1</condition>
@@ -1585,7 +1596,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG145</name>
         <condition>1</condition>
@@ -1596,7 +1607,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG146</name>
         <condition>1</condition>
@@ -1607,7 +1618,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG147</name>
         <condition>1</condition>
@@ -1618,7 +1629,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG148</name>
         <condition>1</condition>
@@ -1629,7 +1640,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG149</name>
         <condition>1</condition>
@@ -1640,7 +1651,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG150</name>
         <condition>1</condition>
@@ -1651,7 +1662,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG151</name>
         <condition>1</condition>
@@ -1662,7 +1673,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG152</name>
         <condition>1</condition>
@@ -1673,7 +1684,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG153</name>
         <condition>1</condition>
@@ -1684,7 +1695,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG154</name>
         <condition>1</condition>
@@ -1695,7 +1706,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG155</name>
         <condition>1</condition>
@@ -1706,7 +1717,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG156</name>
         <condition>1</condition>
@@ -1717,7 +1728,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG157</name>
         <condition>1</condition>
@@ -1728,7 +1739,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG158</name>
         <condition>1</condition>
@@ -1739,7 +1750,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG159</name>
         <condition>1</condition>
@@ -1750,7 +1761,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG160</name>
         <condition>1</condition>
@@ -1761,7 +1772,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG161</name>
         <condition>1</condition>
@@ -1772,7 +1783,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG162</name>
         <condition>1</condition>
@@ -1783,7 +1794,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG163</name>
         <condition>2</condition>
@@ -1794,7 +1805,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG164</name>
         <condition>1</condition>
@@ -1805,7 +1816,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG165</name>
         <condition>1</condition>
@@ -1816,7 +1827,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG166</name>
         <condition>1</condition>
@@ -1827,7 +1838,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG167</name>
         <condition>1</condition>
@@ -1838,7 +1849,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG168</name>
         <condition>1</condition>
@@ -1849,7 +1860,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG169</name>
         <condition>1</condition>
@@ -1860,7 +1871,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG170</name>
         <condition>1</condition>
@@ -1871,7 +1882,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG171</name>
         <condition>1</condition>
@@ -1882,7 +1893,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG172</name>
         <condition>1</condition>
@@ -1893,7 +1904,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG173</name>
         <condition>1</condition>
@@ -1904,7 +1915,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG174</name>
         <condition>1</condition>
@@ -1915,7 +1926,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG175</name>
         <condition>1</condition>
@@ -1926,7 +1937,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG176</name>
         <condition>1</condition>
@@ -1937,7 +1948,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG177</name>
         <condition>1</condition>
@@ -1948,7 +1959,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG178</name>
         <condition>1</condition>
@@ -1959,7 +1970,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG179</name>
         <condition>1</condition>
@@ -1970,7 +1981,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG180</name>
         <condition>1</condition>
@@ -1981,7 +1992,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG181</name>
         <condition>1</condition>
@@ -1992,7 +2003,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG182</name>
         <condition>1</condition>
@@ -2003,7 +2014,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG183</name>
         <condition>1</condition>
@@ -2014,7 +2025,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG184</name>
         <condition>1</condition>
@@ -2025,7 +2036,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG185</name>
         <condition>1</condition>
@@ -2036,7 +2047,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG186</name>
         <condition>1</condition>
@@ -2047,7 +2058,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG187</name>
         <condition>1</condition>
@@ -2058,7 +2069,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG188</name>
         <condition>1</condition>
@@ -2069,7 +2080,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG189</name>
         <condition>1</condition>
@@ -2080,7 +2091,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG190</name>
         <condition>1</condition>
@@ -2091,7 +2102,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG191</name>
         <condition>1</condition>
@@ -2102,7 +2113,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG192</name>
         <condition>1</condition>
@@ -2113,7 +2124,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG193</name>
         <condition>1</condition>
@@ -2124,7 +2135,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG194</name>
         <condition>1</condition>
@@ -2135,7 +2146,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG195</name>
         <condition>1</condition>
@@ -2146,7 +2157,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG196</name>
         <condition>1</condition>
@@ -2157,7 +2168,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG197</name>
         <condition>1</condition>
@@ -2168,7 +2179,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG198</name>
         <condition>1</condition>
@@ -2179,7 +2190,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG199</name>
         <condition>1</condition>
@@ -2190,7 +2201,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG200</name>
         <condition>1</condition>
@@ -2201,7 +2212,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG201</name>
         <condition>1</condition>
@@ -2212,7 +2223,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG202</name>
         <condition>1</condition>
@@ -2223,7 +2234,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG203</name>
         <condition>1</condition>
@@ -2234,7 +2245,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG204</name>
         <condition>1</condition>
@@ -2245,7 +2256,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG205</name>
         <condition>1</condition>
@@ -2256,7 +2267,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG206</name>
         <condition>1</condition>
@@ -2267,7 +2278,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG207</name>
         <condition>1</condition>
@@ -2278,7 +2289,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG208</name>
         <condition>1</condition>
@@ -2289,7 +2300,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG209</name>
         <condition>1</condition>
@@ -2300,7 +2311,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG210</name>
         <condition>1</condition>
@@ -2311,7 +2322,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG211</name>
         <condition>2</condition>
@@ -2322,7 +2333,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG212</name>
         <condition>1</condition>
@@ -2333,7 +2344,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG213</name>
         <condition>1</condition>
@@ -2344,7 +2355,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG214</name>
         <condition>1</condition>
@@ -2355,7 +2366,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG215</name>
         <condition>1</condition>
@@ -2366,7 +2377,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG216</name>
         <condition>1</condition>
@@ -2377,7 +2388,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG217</name>
         <condition>1</condition>
@@ -2388,7 +2399,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG218</name>
         <condition>1</condition>
@@ -2399,7 +2410,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG219</name>
         <condition>1</condition>
@@ -2410,7 +2421,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG220</name>
         <condition>1</condition>
@@ -2421,7 +2432,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG221</name>
         <condition>1</condition>
@@ -2432,7 +2443,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG222</name>
         <condition>1</condition>
@@ -2443,7 +2454,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG223</name>
         <condition>1</condition>
@@ -2454,7 +2465,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG224</name>
         <condition>1</condition>
@@ -2465,7 +2476,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG225</name>
         <condition>1</condition>
@@ -2476,7 +2487,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG226</name>
         <condition>1</condition>
@@ -2487,7 +2498,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG227</name>
         <condition>1</condition>
@@ -2498,7 +2509,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG228</name>
         <condition>1</condition>
@@ -2509,7 +2520,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG229</name>
         <condition>1</condition>
@@ -2520,7 +2531,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG230</name>
         <condition>1</condition>
@@ -2531,7 +2542,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG231</name>
         <condition>1</condition>
@@ -2542,7 +2553,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG232</name>
         <condition>1</condition>
@@ -2553,7 +2564,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG233</name>
         <condition>1</condition>
@@ -2564,7 +2575,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG234</name>
         <condition>1</condition>
@@ -2575,7 +2586,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG235</name>
         <condition>1</condition>
@@ -2586,7 +2597,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG236</name>
         <condition>1</condition>
@@ -2597,7 +2608,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG237</name>
         <condition>1</condition>
@@ -2608,7 +2619,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG238</name>
         <condition>1</condition>
@@ -2619,7 +2630,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG239</name>
         <condition>1</condition>
@@ -2630,7 +2641,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG240</name>
         <condition>1</condition>
@@ -2641,7 +2652,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG241</name>
         <condition>1</condition>
@@ -2652,7 +2663,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG242</name>
         <condition>1</condition>
@@ -2663,7 +2674,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG243</name>
         <condition>1</condition>
@@ -2674,7 +2685,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG244</name>
         <condition>1</condition>
@@ -2685,7 +2696,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG245</name>
         <condition>1</condition>
@@ -2696,7 +2707,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG246</name>
         <condition>1</condition>
@@ -2707,7 +2718,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG247</name>
         <condition>1</condition>
@@ -2718,7 +2729,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG248</name>
         <condition>1</condition>
@@ -2729,7 +2740,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG249</name>
         <condition>1</condition>
@@ -2740,7 +2751,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG250</name>
         <condition>1</condition>
@@ -2751,7 +2762,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG251</name>
         <condition>1</condition>
@@ -2762,7 +2773,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG252</name>
         <condition>1</condition>
@@ -2773,7 +2784,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG253</name>
         <condition>1</condition>
@@ -2784,7 +2795,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG254</name>
         <condition>1</condition>
@@ -2795,7 +2806,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG255</name>
         <condition>1</condition>
@@ -2806,7 +2817,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG256</name>
         <condition>1</condition>
@@ -2817,7 +2828,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG257</name>
         <condition>1</condition>
@@ -2828,7 +2839,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG258</name>
         <condition>1</condition>
@@ -2839,7 +2850,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG259</name>
         <condition>1</condition>
@@ -2850,7 +2861,7 @@
             <count>1</count>
         </expectedResponse>
     </Slide>
-    
+
     <Slide>
         <name>IMG260</name>
         <condition>1</condition>
@@ -2860,13 +2871,6 @@
             <key>C</key>
             <count>1</count>
         </expectedResponse>
-    </Slide>
-
-    <Slide>
-        <name>NoImg</name>
-        <condition>3</condition>
-        <duration>500</duration>
-        <backGroundColor>White</backGroundColor>
     </Slide>
 
 </IncludeSlides>

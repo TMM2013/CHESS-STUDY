@@ -1,20 +1,49 @@
 #!/bin/bash
+echo '<?xml version="1.0" encoding="UTF-8"?>'
+echo "<!-- Must be a top level tag to include all tags to include -->"
+echo "<IncludeSlides>"
 
-for oneFile in *jpg
+# print intro slide
+echo "    <Slide>"
+echo "        <name>Directions</name>"
+echo "        <duration>10000</duration>"
+echo "        <text>You will see a series of images.</text>"
+echo "        <text>Some new, some prevously viewed during training.</text>"
+echo '        <text>Press the "C" key when you see images previously viewed during training.</text>'
+echo "        <color>Black</color>"
+echo "        <font>Arial</font>"
+echo "        <fontsize>24</fontsize>"
+echo "        <backGroundColor>Black</backGroundColor>"
+echo "    </Slide>"
+echo 
+
+for oneFile in *jpeg
 do
     # let's skip position right now
-    output=${oneFile/.jpg/}
-    echo "<Slide>"
-    echo "    <name>IMG${output}</name>"
-    echo "    <condition>1</condition>"
+    fname=`basename ${oneFile}`
+    output=${fname/.jpeg/}
+
+    case "$output" in
+        016|081|118|163|211)
+            condition=2
+            ;;
+        *)
+            condition=1
+            ;;
+    esac
+    
+    echo "    <Slide>"
+    echo "        <name>IMG${output}</name>"
+    echo "        <condition>${condition}</condition>"
     # make sure path below is correct
-    echo "    <Picture>../../UpdatedSnodgrass/${oneFile}</Picture>"
-    echo "    <duration>2500</duration>"
-    echo "    <expectedResponse>"
-    echo "        <key>C</key>"
-    echo "        <count>1</count>"
-    echo "    </expectedResponse>"
-    echo "</Slide>"
+    echo "        <Picture>./UpdatedSnodgrass/${fname}</Picture>"
+    echo "        <duration>2500</duration>"
+    echo "        <expectedResponse>"
+    echo "            <key>C</key>"
+    echo "            <count>1</count>"
+    echo "        </expectedResponse>"
+    echo "    </Slide>"
     echo 
 done
 
+echo "</IncludeSlides>"
