@@ -4,9 +4,9 @@
     <Slide>
         <name>Directions</name>
         <duration>10000</duration>
-        <text>You will see a series of images.</text>
-        <text>Some new, some prevously viewed during training.</text>
-        <text>Press the "C" key when you see images previously viewed during training.</text>
+        <text>You will see a series of images.
+Some new, some prevously viewed during training.
+Press the "C" key when you see images previously viewed during training.</text>
         <color>Black</color>
         <font>Arial</font>
         <fontsize>24</fontsize>
