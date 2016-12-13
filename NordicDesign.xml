@@ -59,8 +59,8 @@
 
     <Session>
         <name>EpisodicMemory</name>
-        <runtrial>Directions</runtrial>
         <runtrial>Trial0000</runtrial>
+        <runtrial>Directions</runtrial>
         <runtrial>Trial0001</runtrial>
         <runtrial>Trial0002</runtrial>
         <runtrial>Trial0003</runtrial>
