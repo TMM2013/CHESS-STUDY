@@ -51,7 +51,7 @@
     </Trial>
 
     <Trial>
-        <name>Directions</trial>
+        <name>Directions</name>
         <show>
             <item>Directions</item>
         </show>
