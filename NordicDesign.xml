@@ -50,8 +50,16 @@
         </show>
     </Trial>
 
+    <Trial>
+        <name>Directions</trial>
+        <show>
+            <item>Directions</item>
+        </show>
+    </Trial>
+
     <Session>
         <name>EpisodicMemory</name>
+        <runtrial>Directions</runtrial>
         <runtrial>Trial0000</runtrial>
         <runtrial>Trial0001</runtrial>
         <runtrial>Trial0002</runtrial>
