@@ -12,6 +12,13 @@
         <fontsize>24</fontsize>
         <backGroundColor>Black</backGroundColor>
     </Slide>
+    
+    <Slide>
+        <name>NoImg</name>
+        <condition>3</condition>
+        <duration>500</duration>
+        <backGroundColor>White</backGroundColor>
+    </Slide>
 
     <Slide>
         <name>IMG001</name>
