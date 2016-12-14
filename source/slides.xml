@@ -7,7 +7,7 @@
         <duration>10000</duration>
         <text>You will see a series of images.
 Some new, some prevously viewed during training.
-Press the "C" key when you see images previously viewed during training.</text>
+Press the RIGHT INDEX button when you see images previously viewed during training.</text>
         <color>Black</color>
         <font>Arial</font>
         <fontsize>24</fontsize>
@@ -35,7 +35,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/001.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -46,7 +46,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/002.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -57,7 +57,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/003.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -68,7 +68,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/004.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -79,7 +79,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/005.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -90,7 +90,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/006.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -101,7 +101,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/007.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -112,7 +112,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/008.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -123,7 +123,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/009.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -134,7 +134,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/010.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -145,7 +145,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/011.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -156,7 +156,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/012.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -167,7 +167,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/013.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -178,7 +178,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/014.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -189,7 +189,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/015.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -200,7 +200,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/016.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -211,7 +211,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/017.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -222,7 +222,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/018.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -233,7 +233,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/019.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -244,7 +244,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/020.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -255,7 +255,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/021.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -266,7 +266,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/022.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -277,7 +277,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/023.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -288,7 +288,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/024.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -299,7 +299,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/025.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -310,7 +310,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/026.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -321,7 +321,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/027.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -332,7 +332,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/028.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -343,7 +343,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/029.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -354,7 +354,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/030.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -365,7 +365,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/031.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -376,7 +376,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/032.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -387,7 +387,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/033.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -398,7 +398,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/034.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -409,7 +409,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/035.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -420,7 +420,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/036.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -431,7 +431,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/037.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -442,7 +442,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/038.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -453,7 +453,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/039.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -464,7 +464,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/040.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -475,7 +475,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/041.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -486,7 +486,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/042.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -497,7 +497,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/043.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -508,7 +508,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/044.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -519,7 +519,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/045.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -530,7 +530,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/046.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -541,7 +541,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/047.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -552,7 +552,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/048.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -563,7 +563,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/049.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -574,7 +574,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/050.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -585,7 +585,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/051.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -596,7 +596,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/052.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -607,7 +607,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/053.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -618,7 +618,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/054.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -629,7 +629,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/055.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -640,7 +640,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/056.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -651,7 +651,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/057.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -662,7 +662,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/058.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -673,7 +673,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/059.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -684,7 +684,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/060.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -695,7 +695,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/061.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -706,7 +706,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/062.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -717,7 +717,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/063.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -728,7 +728,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/064.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -739,7 +739,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/065.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -750,7 +750,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/066.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -761,7 +761,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/067.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -772,7 +772,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/068.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -783,7 +783,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/069.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -794,7 +794,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/070.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -805,7 +805,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/071.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -816,7 +816,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/072.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -827,7 +827,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/073.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -838,7 +838,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/074.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -849,7 +849,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/075.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -860,7 +860,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/076.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -871,7 +871,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/077.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -882,7 +882,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/078.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -893,7 +893,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/079.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -904,7 +904,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/080.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -915,7 +915,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/081.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -926,7 +926,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/082.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -937,7 +937,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/083.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -948,7 +948,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/084.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -959,7 +959,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/085.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -970,7 +970,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/086.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -981,7 +981,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/087.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -992,7 +992,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/088.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1003,7 +1003,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/089.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1014,7 +1014,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/090.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1025,7 +1025,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/091.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1036,7 +1036,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/092.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1047,7 +1047,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/093.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1058,7 +1058,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/094.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1069,7 +1069,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/095.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1080,7 +1080,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/096.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1091,7 +1091,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/097.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1102,7 +1102,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/098.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1113,7 +1113,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/099.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1124,7 +1124,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/100.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1135,7 +1135,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/101.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1146,7 +1146,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/102.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1157,7 +1157,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/103.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1168,7 +1168,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/104.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1179,7 +1179,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/105.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1190,7 +1190,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/106.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1201,7 +1201,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/107.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1212,7 +1212,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/108.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1223,7 +1223,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/109.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1234,7 +1234,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/110.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1245,7 +1245,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/111.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1256,7 +1256,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/112.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1267,7 +1267,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/113.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1278,7 +1278,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/114.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1289,7 +1289,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/115.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1300,7 +1300,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/116.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1311,7 +1311,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/117.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1322,7 +1322,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/118.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1333,7 +1333,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/119.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1344,7 +1344,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/120.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1355,7 +1355,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/121.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1366,7 +1366,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/122.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1377,7 +1377,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/123.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1388,7 +1388,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/124.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1399,7 +1399,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/125.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1410,7 +1410,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/126.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1421,7 +1421,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/127.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1432,7 +1432,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/128.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1443,7 +1443,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/129.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1454,7 +1454,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/130.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1465,7 +1465,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/131.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1476,7 +1476,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/132.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1487,7 +1487,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/133.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1498,7 +1498,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/134.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1509,7 +1509,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/135.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1520,7 +1520,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/136.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1531,7 +1531,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/137.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1542,7 +1542,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/138.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1553,7 +1553,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/139.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1564,7 +1564,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/140.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1575,7 +1575,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/141.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1586,7 +1586,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/142.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1597,7 +1597,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/143.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1608,7 +1608,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/144.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1619,7 +1619,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/145.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1630,7 +1630,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/146.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1641,7 +1641,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/147.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1652,7 +1652,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/148.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1663,7 +1663,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/149.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1674,7 +1674,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/150.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1685,7 +1685,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/151.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1696,7 +1696,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/152.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1707,7 +1707,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/153.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1718,7 +1718,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/154.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1729,7 +1729,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/155.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1740,7 +1740,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/156.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1751,7 +1751,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/157.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1762,7 +1762,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/158.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1773,7 +1773,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/159.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1784,7 +1784,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/160.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1795,7 +1795,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/161.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1806,7 +1806,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/162.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1817,7 +1817,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/163.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1828,7 +1828,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/164.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1839,7 +1839,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/165.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1850,7 +1850,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/166.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1861,7 +1861,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/167.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1872,7 +1872,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/168.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1883,7 +1883,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/169.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1894,7 +1894,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/170.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1905,7 +1905,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/171.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1916,7 +1916,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/172.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1927,7 +1927,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/173.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1938,7 +1938,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/174.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1949,7 +1949,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/175.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1960,7 +1960,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/176.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1971,7 +1971,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/177.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1982,7 +1982,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/178.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -1993,7 +1993,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/179.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2004,7 +2004,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/180.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2015,7 +2015,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/181.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2026,7 +2026,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/182.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2037,7 +2037,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/183.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2048,7 +2048,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/184.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2059,7 +2059,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/185.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2070,7 +2070,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/186.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2081,7 +2081,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/187.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2092,7 +2092,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/188.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2103,7 +2103,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/189.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2114,7 +2114,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/190.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2125,7 +2125,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/191.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2136,7 +2136,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/192.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2147,7 +2147,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/193.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2158,7 +2158,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/194.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2169,7 +2169,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/195.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2180,7 +2180,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/196.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2191,7 +2191,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/197.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2202,7 +2202,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/198.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2213,7 +2213,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/199.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2224,7 +2224,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/200.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2235,7 +2235,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/201.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2246,7 +2246,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/202.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2257,7 +2257,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/203.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2268,7 +2268,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/204.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2279,7 +2279,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/205.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2290,7 +2290,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/206.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2301,7 +2301,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/207.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2312,7 +2312,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/208.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2323,7 +2323,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/209.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2334,7 +2334,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/210.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2345,7 +2345,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/211.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2356,7 +2356,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/212.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2367,7 +2367,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/213.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2378,7 +2378,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/214.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2389,7 +2389,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/215.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2400,7 +2400,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/216.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2411,7 +2411,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/217.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2422,7 +2422,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/218.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2433,7 +2433,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/219.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2444,7 +2444,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/220.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2455,7 +2455,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/221.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2466,7 +2466,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/222.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2477,7 +2477,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/223.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2488,7 +2488,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/224.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2499,7 +2499,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/225.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2510,7 +2510,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/226.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2521,7 +2521,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/227.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2532,7 +2532,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/228.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2543,7 +2543,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/229.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2554,7 +2554,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/230.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2565,7 +2565,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/231.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2576,7 +2576,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/232.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2587,7 +2587,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/233.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2598,7 +2598,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/234.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2609,7 +2609,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/235.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2620,7 +2620,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/236.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2631,7 +2631,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/237.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2642,7 +2642,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/238.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2653,7 +2653,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/239.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2664,7 +2664,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/240.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2675,7 +2675,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/241.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2686,7 +2686,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/242.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2697,7 +2697,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/243.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2708,7 +2708,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/244.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2719,7 +2719,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/245.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2730,7 +2730,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/246.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2741,7 +2741,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/247.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2752,7 +2752,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/248.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2763,7 +2763,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/249.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2774,7 +2774,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/250.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2785,7 +2785,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/251.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2796,7 +2796,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/252.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2807,7 +2807,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/253.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2818,7 +2818,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/254.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2829,7 +2829,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/255.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2840,7 +2840,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/256.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2851,7 +2851,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/257.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2862,7 +2862,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/258.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2873,7 +2873,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/259.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>
@@ -2884,7 +2884,7 @@ Press the "C" key when you see images previously viewed during training.</text>
         <Picture>./UpdatedSnodgrass/260.jpeg</Picture>
         <duration>2500</duration>
         <expectedResponse>
-            <key>c</key>
+            <key>C</key>
             <count>1</count>
         </expectedResponse>
     </Slide>

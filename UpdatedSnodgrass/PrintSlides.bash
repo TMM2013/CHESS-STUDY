@@ -10,7 +10,7 @@ echo "        <name>Directions</name>"
 echo "        <duration>10000</duration>"
 echo "        <text>You will see a series of images."
 echo "Some new, some prevously viewed during training."
-echo 'Press the "C" key when you see images previously viewed during training.</text>'
+echo 'Press the RIGHT INDEX button when you see images previously viewed during training.</text>'
 echo "        <color>Black</color>"
 echo "        <font>Arial</font>"
 echo "        <fontsize>24</fontsize>"
@@ -59,7 +59,7 @@ do
     echo "        <Picture>./UpdatedSnodgrass/${fname}</Picture>"
     echo "        <duration>2500</duration>"
     echo "        <expectedResponse>"
-    echo "            <key>c</key>"
+    echo "            <key>C</key>"
     echo "            <count>1</count>"
     echo "        </expectedResponse>"
     echo "    </Slide>"
