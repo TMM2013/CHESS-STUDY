@@ -57,6 +57,13 @@
         </show>
     </Trial>
 
+    <Trial>
+        <name>Goodybye</name>
+        <show>
+            <item>Goodybye</item>
+        </show>
+    </Trial>
+
     <Session>
         <name>EpisodicMemory</name>
         <runtrial>Trial0000</runtrial>
@@ -155,6 +162,7 @@
         <runtrial>Trial0092</runtrial>
         <runtrial>Trial0093</runtrial>
         <runtrial>Trial0094</runtrial>
+        <runtrial>Goodbye</runtrial>
     </Session>
 
 </ParameterDescriptionFile>
