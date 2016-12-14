@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Must be a top level tag to include all tags to include -->
 <IncludeSlides>
+
     <Slide>
         <name>Directions</name>
         <duration>10000</duration>
@@ -12,12 +13,20 @@ Press the "C" key when you see images previously viewed during training.</text>
         <fontsize>24</fontsize>
         <backGroundColor>White</backGroundColor>
     </Slide>
-    
+
     <Slide>
         <name>NoImg</name>
         <condition>3</condition>
         <duration>500</duration>
         <backGroundColor>White</backGroundColor>
+    </Slide>
+
+    <Slide>
+        <name>Goodbye</name>
+        <text>Goodbye.</text>
+        <font>Arial</font>
+        <fontsize>24</fontsize>
+        <duration>1000</duration>
     </Slide>
 
     <Slide>
