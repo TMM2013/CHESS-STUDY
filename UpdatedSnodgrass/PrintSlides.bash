@@ -59,7 +59,7 @@ do
     echo "        <Picture>./UpdatedSnodgrass/${fname}</Picture>"
     echo "        <duration>2500</duration>"
     echo "        <expectedResponse>"
-    echo "            <key>C</key>"
+    echo "            <key>c</key>"
     echo "            <count>1</count>"
     echo "        </expectedResponse>"
     echo "    </Slide>"
