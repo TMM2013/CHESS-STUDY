@@ -28,7 +28,8 @@
         <Slices>39</Slices>
         <TimeToRepeat>2000</TimeToRepeat>
         <InterPulseInterval>2000</InterPulseInterval>
-        <Volumes>141</Volumes>
+        <!-- Total duration: 10+94*3+1=293 -->
+        <Volumes>147</Volumes>
     </Settings>
 
     <Defaults>
@@ -50,9 +51,24 @@
         </show>
     </Trial>
 
+    <Trial>
+        <name>Directions</name>
+        <show>
+            <item>Directions</item>
+        </show>
+    </Trial>
+
+    <Trial>
+        <name>Goodbye</name>
+        <show>
+            <item>Goodbye</item>
+        </show>
+    </Trial>
+
     <Session>
         <name>EpisodicMemory</name>
         <runtrial>Trial0000</runtrial>
+        <runtrial>Directions</runtrial>
         <runtrial>Trial0001</runtrial>
         <runtrial>Trial0002</runtrial>
         <runtrial>Trial0003</runtrial>
@@ -147,6 +163,7 @@
         <runtrial>Trial0092</runtrial>
         <runtrial>Trial0093</runtrial>
         <runtrial>Trial0094</runtrial>
+        <runtrial>Goodbye</runtrial>
     </Session>
 
 </ParameterDescriptionFile>
